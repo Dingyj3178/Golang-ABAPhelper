@@ -1,5 +1,5 @@
 # Golang-ABAPhelper
 
-Golang-ABAPhelper is a GUI tool to helper ABAPer to beautify the column definition.
+Golang-ABAPhelper is a GUI tool to help ABAPer beautifying the column definition.
 
 ![](abaptool.gif)
